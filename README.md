@@ -24,7 +24,7 @@ Step into the center of the world where a variety of beautiful sea creatures roa
   
 # Credits
 
-# Booker Martin
+## Booker Martin
 
 - Created sea turtle
 - Added lighting
@@ -33,19 +33,19 @@ Step into the center of the world where a variety of beautiful sea creatures roa
 - Reconfigured wireframe system
 - Animated turtle & Moriah's jellyfish
 
-# Moriah Scott
+## Moriah Scott
 
 - Created JellyFish
 - Created Coke Bottle
 - Created Sea Kelp w/ wavy Animation
 
-# Teresa Ueunten
+## Teresa Ueunten
 
 - Created individual coral "plants"
 - Created system to generate coral around core
 - Created Giant clam
 
-# Elena Martinez
+## Elena Martinez
 
 - Created blue (Dory-inspired) fish with moving fins
 - Created different design for smaller fish with moving fins
